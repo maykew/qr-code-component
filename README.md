@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Repositório Github](https://github.com/maykew/qr-code-component.github.io)
-- Live Site URL: [Github Pages](https://github.com/qr-code-component.github.io)
+- Live Site URL: [Github Pages](https://maykew.github.io/qr-code-component/) | [Vercel](https://qr-code-component-silk-phi.vercel.app/)
 
 ## My process
 
