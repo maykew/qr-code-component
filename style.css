@@ -62,20 +62,25 @@ body {
     font-family: 'Outfit', sans-serif;
 
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
+    text-align: center;
+
     height: 100vh;
+}
+
+main, footer {
+    max-width: 330px;
 }
 
 section {
     background-color: var(--card-color);
 
     padding: 1em;
-    width: 300px;
     border-radius: 10px;
 
-    text-align: center;
 }
 
 header {
@@ -101,4 +106,8 @@ img {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 16px;
+}
+
+footer {
+    margin-top: 20px;
 }
