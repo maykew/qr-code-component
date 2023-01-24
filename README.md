@@ -32,8 +32,42 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Reset CSS
 - Flexbox
 - Mobile-first workflow
+
+### What I learned
+
+In this challenge, I tried to practice the concept of HTML5 semantic structuring, aiming to make the content clearer both for programmers and for browsers and other engines that process this information.
+
+```html
+<body>
+	<main>
+		<section>
+			<header>
+				<h1>Title</h1>
+				<img>
+			</header>
+			<p>Contents</p>
+		</section>
+	</main>
+
+	<footer>
+		<p>Description</p>
+	</footer>
+</body>
+```
+
+Also, I first used the "[Reset CSS](https://meyerweb.com/eric/tools/css/reset/)". The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.
+
+### Continued development
+
+I intend to develop more pages using only HTML and CSS to consolidate the concepts of "HTML5 Semantic" and "Flexbox".
+
+### Useful resources
+
+- [MDN Reference](https://developer.mozilla.org/en-US/) - MDN Web Docs has the most up-to-date and accurate information and the content is presented in an easy-to-understand manner;
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on;
 
 ## Author
 
